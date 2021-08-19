@@ -1,0 +1,23 @@
+{
+  "name": "nodemysqlsequelize",
+  "version": "1.0.0",
+  "description": "Projeto node com conexao ao MySql utilizando Sequelize",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilsonbraggion/NodeMySqlSequelize.git"
+  },
+  "author": "Gilson Braggion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilsonbraggion/NodeMySqlSequelize/issues"
+  },
+  "homepage": "https://github.com/gilsonbraggion/NodeMySqlSequelize#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
